@@ -1745,7 +1745,7 @@ services
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  border: 1px dashed #3266C6;
+  border: 1px dashed #FFFFFF;
 }
 
 .features-line .icon {
@@ -1760,7 +1760,7 @@ services
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background: #3266C6;
+  background: #FFFFFF;
 }
 
 .features-line .icon i {
@@ -1783,7 +1783,7 @@ services
 .features-line p {
   font-weight: 400;
   font-size: 16px;
-  color: #6F8BA4;
+  color: #FFFFFF;
   line-height: 28px;
   letter-spacing: 1px;
 }
